@@ -1,8 +1,11 @@
 # Game
 
+
 #🐦 Flappy Bird - Python Edition 🎮
 
 A fun and addictive clone of the classic Flappy Bird game, built using Python and Pygame. Fly through pipes, challenge your reflexes, and compete for the highest score!
+
+
 
 ##🚀 Tech Stack
 
@@ -14,6 +17,8 @@ Graphics: assets
 
 Sound: sound
 
+
+
 ##✨ Features
 
 🕹️ Smooth and responsive controls
@@ -23,6 +28,7 @@ Sound: sound
 🔁 Infinite scrolling background
 
 📊 Real-time score tracking
+---
 
 🔊 Built-in sound effects for immersive play
 
