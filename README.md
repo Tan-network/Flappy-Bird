@@ -8,7 +8,7 @@ A fun and addictive clone of the classic Flappy Bird game, built using Python an
 
 ---
 
-##🚀 **Tech Stack**
+#🚀 **Tech Stack**
 
 Language: Python 🐍
 
@@ -20,7 +20,7 @@ Sound: sound
 
 ---
 
-##✨ **Features**
+#✨ **Features**
 
 🕹️ Smooth and responsive controls
 
